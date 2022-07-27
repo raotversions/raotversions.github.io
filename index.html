@@ -72,7 +72,7 @@
 					}
 			}
 			for(let j = 0; j < links.length; j++)
-				drops[i].children[1].innerHTML += "<div class='link'><a href='" + (links[j][1].search("google") == -1 ? links[j][1] : gLink(links[j][1])) + "' download target='_blank'>" + links[j][0] + "</a></div>";
+				drops[i].children[1].innerHTML += "<div class='link'><a href='" + (links[j][1].search("google") == -1 ? links[j][1] + "' download": gLink(links[j][1]) + "' target='_blank'" ) + ">" + links[j][0] + "</a></div>";
 		}
 	</script>
 	</body>
