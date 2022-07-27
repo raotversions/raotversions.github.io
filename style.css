@@ -3,6 +3,11 @@
   src: url("Lato-Bla.ttf");
 }
 
+@font-face {
+  font-family: Trebuchet;
+  src: url("trebuchet.otf");
+}
+
 html {
   background-image: url(./background.jpg);
   background-repeat: no-repeat;
@@ -13,7 +18,7 @@ html {
 
 body {
   width: 70%;
-  font-family: Lato, LatoBla;
+  font-family: Lato, LatoBla, Trebuchet;
   background-color: rgba(23, 27, 36, 0.85);
   color: white;
   margin-top: -10%;
