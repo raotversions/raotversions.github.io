@@ -1,7 +1,7 @@
 /* Github Links */
 var vers = [
-["raot_2.045_linux.tar.gz", "https://drive.google.com/file/d/1ZT0YoTYp8x3ricG6d-wmHs4KovqbN5Kj/view?usp=sharing"],
-["raot_2.043_Linux64bit.tar.gz", "https://drive.google.com/file/d/1fhVOskn1APmp0h775eg7-HDAlP4MrB4U/view?usp=sharing"],
+["raot_2.045_linux.tar.gz", "https://github.com/raotversions/raotversions/releases/download/linux2.045/raot_2.045_linux.tar.gz"],
+["raot_2.043_Linux64bit.tar.gz", "https://github.com/raotversions/raotversions/releases/download/linux2.043/raot_2.043_Linux64bit.tar.gz"],
 ["raot-v1.906-linux64.zip", "https://drive.google.com/file/d/1vDqRzPx-qnbTfaxM1s_88DfHDyz9JkJD/view?usp=sharing"],
 ["raot-v1.786-linux64.zip", "https://drive.google.com/file/d/108qwf7e_i9Pgb3H6OSGrCKMiqoMXC1y6/view?usp=sharing"],
 ["raot-v1.753-linux64.zip", "https://drive.google.com/file/d/1tv27ojfZDwBtfap6Em9xJDQcp7WJmgV3/view?usp=sharing"],
