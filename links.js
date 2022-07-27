@@ -4,7 +4,7 @@ var vers = [
 ["raot_2.043_Linux64bit.tar.gz", "https://github.com/raotversions/raotversions/releases/download/linux2.043/raot_2.043_Linux64bit.tar.gz"],
 ["raot-v1.906-linux64.zip", "https://drive.google.com/file/d/1vDqRzPx-qnbTfaxM1s_88DfHDyz9JkJD/view?usp=sharing"],
 ["raot-v1.786-linux64.zip", "https://drive.google.com/file/d/108qwf7e_i9Pgb3H6OSGrCKMiqoMXC1y6/view?usp=sharing"],
-["raot-v1.753-linux64.zip", "https://drive.google.com/file/d/1tv27ojfZDwBtfap6Em9xJDQcp7WJmgV3/view?usp=sharing"],
+["raot-v1.753-linux64.zip", "https://github.com/raotversions/raotversions/releases/download/linux1.753/raot-v1.753-linux64.zip"],
 ["raot-v1.747-mac64.zip", "https://drive.google.com/file/d/1v--5ncgFDKS1NCHSxnbVmHUo49ke37Wc/view?usp=sharing"],
 ["raot-v1.786-mac64.zip", "https://drive.google.com/file/d/196lSjp9MvRyxANG_GfFLoz-nZ8OtKMEs/view?usp=sharing"],
 ["raot-v1.753-win64.zip", "https://github.com/raotversions/raotversions/releases/download/win1.753/raot-v1.753-win64.zip"],
