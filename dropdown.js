@@ -20,15 +20,15 @@ for(let i = 0; i < dropdowns.length; i++) {
   dropdowns[i].children[1].style.transformOrigin = "top";
   dropdowns[i].children[0].onclick = () => {
     let or = document.createElement("span");
-    or.innerHTML = "&or;";
+    or.innerHTML = "&#9661;";
     let icon = dropdowns[i].children[0].children[0];
     if(icon.innerHTML == or.innerHTML) {
-      icon.innerHTML = "&and;";
+      icon.innerHTML = "&#9651;";
       dropdowns[i].children[1].style.animation = "slidedown 0.5s ease-in-out 0s 1 forwards";
     } else {
-      icon.innerHTML = "&or;";
+      icon.innerHTML = "&#9661;";
       dropdowns[i].children[1].style.animation = "slideup 0.5s ease-in-out 0s 1 forwards";
     }
   }
-  dropdowns[i].children[0].children[0].innerHTML = "&or;";
+  dropdowns[i].children[0].children[0].innerHTML = "&#9661;";
 }
