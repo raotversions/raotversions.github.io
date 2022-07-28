@@ -14,7 +14,7 @@ var vers = [
 ["raot-v1.953-win64.zip", "https://github.com/raotversions/raotversions/releases/download/win1.953/raot-v1.953-win64.zip"],
 ["raot_2.045_windows.zip", "https://github.com/raotversions/raotversions/releases/download/raot-win2.045/raot_2.045_windows.zip"],
 ["raotlauncher.exe", "https://github.com/raotversions/raotversions/releases/download/raot/raotlauncher.exe"],
-["raotfg-v0.2.0-win64.zip". "https://github.com/raotversions/raotversions/releases/download/win0.2.0-64/raotfg-v0.2.0-win64.zip"],
+["raotfg-v0.2.0-win64.zip", "https://github.com/raotversions/raotversions/releases/download/win0.2.0-64/raotfg-v0.2.0-win64.zip"],
 ["raotfg_v0.2.0_win32.zip", "https://github.com/raotversions/raotversions/releases/download/win0.2.0/raotfg_v0.2.0_win32.zip"]
 ];
 
